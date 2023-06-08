@@ -1,6 +1,8 @@
-# JavaScript Clock
+# Big Black Clock Inator
 
-This is a JavaScript code snippet that displays a clock with real-time hour and minute indicators. The clock includes functionality for updating the time of day (morning, afternoon, evening, or night) and a progress bar that updates every five minutes. The script also includes a function for randomly generating characters for each 'nbsp' element. 
+This is a JavaScript code snippet that displays a clock with real-time hour and minute indicators. The clock includes functionality for updating the time of day (morning, afternoon, evening, or night) and a progress bar that updates every five minutes. The script also includes a function for randomly generating characters for each ```nbsp``` element. 
+
+This project is an assignment under the course UXDG-320 provided by the [Savannah College of Art and Design](https://www.scad.edu/), which allow students to propose solutions to real-world problems with novel, interactive technology solutions. Students can explore variety of coding languages and their intended user experience design applications, and effectively collaborate to design solutions, evaluate design feasibility, and test user experiences.
 
 ## Getting Started
 
